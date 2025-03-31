@@ -3,4 +3,4 @@ This repository showcases my data analytics projects, featuring work with both r
 
 To learn more about my projects visit: https://www.bulbapp.com/JRobbinsDataAnalyst/portfolio
 
-To view my Tableau dashboard visit: https://public.tableau.com/app/profile/joanna.robbins/vizzes
+To view my Tableau dashboards visit: https://public.tableau.com/app/profile/joanna.robbins/vizzes
