@@ -5,7 +5,7 @@ library(ggplot2)
 # Import data
 animals <- read.csv('animals.csv', header=T)
 
-# Create radial chart chart.
+# Create radial chart.
 
 # Sort data by 'Decibels' in descending order
 animals <- animals[order(-animals$Decibels), ]
